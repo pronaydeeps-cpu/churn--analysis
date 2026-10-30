@@ -235,19 +235,11 @@ Integrate churn prediction into CRM workflows to identify high-risk customers be
 # Project Structure
 
 ```
-Subscription-Retention-Churn-Analytics
-│
-├── data/
-│   └── netflix_customer_churn.csv
-│
-├── notebooks/
-│   └── analysis.ipynb
-│
-├── reports/
-│
-├── README.md
+churn-analysis/
+├── analysis.ipynb
+├── subscription_customer_churn.csv
 ├── requirements.txt
-└── .gitignore
+└── README.md
 ```
 
 ---
