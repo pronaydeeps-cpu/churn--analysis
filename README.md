@@ -269,10 +269,7 @@ The dataset used in this project is a publicly available subscription customer c
 ---
 #  Author
 
-**Prem Sharma**
+PronaydeepSarkar
 
 
----
 
-
-##  If you found this project useful or interesting, consider giving the repository a star!
